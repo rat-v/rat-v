@@ -1,4 +1,4 @@
-### A portfolio to document projects I've done and any other ramblings as I learn as much as I can
+### A portfolio to document projects I've done, and any other ramblings I have, as I learn as much as I can
 ### I am currently learning the fundamentals and working on projects in different areas of infosec to supplement my learning
 
 <!--

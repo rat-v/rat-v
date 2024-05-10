@@ -1,4 +1,5 @@
-### Hi there 👋
+# A portfolio to document projects I've done and any other ramblings as I learn as much as I can
+# I am currently learning the fundamentals and working on projects in different areas of infosec to supplement my learning
 
 <!--
 **rat-v/rat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

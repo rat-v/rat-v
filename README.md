@@ -1,6 +1,8 @@
 ### A portfolio to document projects I've done, and any other ramblings I have, as I study for the Security+ certificate and beyond.
 ### I am currently learning the fundamentals and working on projects to supplement my learning
 
+### I am entirely self taught, learning with articles, videos, and working on, mostly free, projects I find online.
+
 <!--
 **rat-v/rat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

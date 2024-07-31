@@ -1,4 +1,4 @@
-### I am entirely self taught, learning with articles, videos, and working on, mostly free, projects I find online.
+### I am entirely self taught, learning with articles, videos, and working on projects I find online.
 
 ### A portfolio to document projects I've done, and any other ramblings I have.
 

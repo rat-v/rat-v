@@ -4,7 +4,7 @@
 ### I am entirely self taught, learning with the abundance of educational articles, videos, and projects I find online.
 ### This is portfolio to document projects I've done, and any other ramblings I have.
 
-#### Currently: Studying for the Security+, working on projects to develop my technical skills, and applying for entry-level jobs specifically as a security analyst.
+#### Currently: Studying for the Security+, always working on projects to develop my technical skills, and applying for entry-level jobs specifically as a security analyst.
 
 <!--
 **rat-v/rat-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

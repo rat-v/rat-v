@@ -1,7 +1,7 @@
 ### I am a recent graduate of Pharmaceutical Sciences looking for a career change to pursue what I am truly passionate about: technology and problem solving.
 <a href="https://www.linkedin.com/in/awad-abdullah/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### I am entirely self taught, learning with the abundance of educational articles, videos, and projects I find online.
+### I am entirely self taught, learning with the abundance of educational projects, articles, and videos I find online.
 ### This is portfolio to document projects I've done, and any other ramblings I have.
 
 #### Currently: Studying for the Security+, always working on projects to develop my technical skills, and applying for entry-level jobs specifically as a security analyst.

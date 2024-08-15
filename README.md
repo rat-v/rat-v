@@ -5,7 +5,7 @@
 
 #### I am entirely self taught, learning with the abundance of educational projects, articles, and videos I find online.
 
-#### Currently: Studying for the Security+, always working on projects to develop my practical skills, and applying for entry-level jobs specifically as a security analyst.
+#### Currently: Studying for the Security+, always working on projects to develop my practical skills, and applying for entry-level jobs specifically as an IT, network, or security analyst.
 <br>
 <a href="https://www.linkedin.com/in/awad-abdullah/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

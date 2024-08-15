@@ -12,7 +12,7 @@
 
 ## Project Showcase
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Building a Comprehensive Security Lab](https://github.com/rat-v/Building-a-Comprehensive-Virtual-Security-Lab) <br> [Elastic Cloud SIEM](https://github.com/rat-v/Building-an-Elastic-Cloud-SIEM)</a> |
 | Security Automation with Shuffle SOAR         | WIP |

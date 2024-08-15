@@ -1,5 +1,5 @@
 ## Introduction
-#### This portfolio is dedicated to the documentation of technical projects and notes I take. 
+#### This portfolio is dedicated to the documentation my technical projects and notes.
 
 #### I am a recent graduate of Pharmaceutical Sciences looking for a career change to pursue what I am truly passionate about: technology and problem solving.
 
@@ -9,50 +9,22 @@
 <br>
 <a href="https://www.linkedin.com/in/awad-abdullah/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-## Skills
+
+## Project Showcase
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | [Building a Comprehensive Security Lab](https://github.com/rat-v/Building-a-Comprehensive-Virtual-Security-Lab) <br> [Elastic Cloud SIEM](https://github.com/rat-v/Building-an-Elastic-Cloud-SIEM)</a> |
+| Security Automation with Shuffle SOAR         | WIP |
+| Exploiting     | [Web Browser Exploit](https://github.com/rat-v/Social-Engineering-Web-Browser-Attack) <br> [Exploiting and Patching a Vulnerable System](https://github.com/rat-v/Exploiting-and-Patching-a-Vulnerable-System) <br> [First Vulnerable Machine](https://github.com/rat-v/My-First-Vulnerable-Machine-Cracked) |
+| Network Traffic Monitoring and Attack Detection | WIP |
+| Network Security | [Building a Comprehensive Security Lab](https://github.com/rat-v/Building-a-Comprehensive-Virtual-Security-Lab) <br> [Creating an Isolated Network in VirtualBox](https://github.com/rat-v/Creating-an-Isolated-Network-in-VirtualBox) <br> [Building a Fault Tolerant Network with Cisco Packet Tracer](https://github.com/rat-v/Building-a-Fault-Tolerant-Network) <br> [Deploying a Honeypot](https://github.com/rat-v/Deploying-a-Honeypot-with-PenTBox) |
+| Digital Forensics                 | [Forensics Case B4DM755](https://github.com/rat-v/THM-Forensics-Case-B4DM755) <br> [Intro to Autopsy Browser](https://github.com/rat-v/Intro-to-Autopsy-Browser) |
+| System Administration | [Building a Comprehensive Security Lab](https://github.com/rat-v/Building-a-Comprehensive-Virtual-Security-Lab) <br> [Hardening Windows](https://github.com/rat-v/Hardening-a-Windows-Machine) <br> [Hardening Linux](https://github.com/rat-v/Hardening-a-Linux-System) <br> [Intro to Active Directory](https://github.com/rat-v/Intro-to-Active-Directory) <br> [Intro to Windows Registry](https://github.com/rat-v/Intro-to-Windows-Registry) |
 
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Forensics
-    <img src="https://img.shields.io/badge/-FTK_Imager-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autopsy_Browser-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
+<!--
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
--->

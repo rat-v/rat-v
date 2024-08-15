@@ -21,6 +21,7 @@
 | Network Security | [Building a Comprehensive Security Lab](https://github.com/rat-v/Building-a-Comprehensive-Virtual-Security-Lab) <br> [Creating an Isolated Network in VirtualBox](https://github.com/rat-v/Creating-an-Isolated-Network-in-VirtualBox) <br> [Building a Fault Tolerant Network with Cisco Packet Tracer](https://github.com/rat-v/Building-a-Fault-Tolerant-Network) <br> [Deploying a Honeypot](https://github.com/rat-v/Deploying-a-Honeypot-with-PenTBox) |
 | Digital Forensics                 | [Forensics Case B4DM755](https://github.com/rat-v/THM-Forensics-Case-B4DM755) <br> [Intro to Autopsy Browser](https://github.com/rat-v/Intro-to-Autopsy-Browser) |
 | System Administration | [Building a Comprehensive Security Lab](https://github.com/rat-v/Building-a-Comprehensive-Virtual-Security-Lab) <br> [Hardening Windows](https://github.com/rat-v/Hardening-a-Windows-Machine) <br> [Hardening Linux](https://github.com/rat-v/Hardening-a-Linux-System) <br> [Intro to Active Directory](https://github.com/rat-v/Intro-to-Active-Directory) <br> [Intro to Windows Registry](https://github.com/rat-v/Intro-to-Windows-Registry) |
+| The Forage Job Simulations | [Here](https://github.com/rat-v/The-Forage-Job-Simulations) |
 
 <!--
 ## Certifications
